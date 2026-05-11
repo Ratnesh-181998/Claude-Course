@@ -16,6 +16,7 @@
 - Everything you need to actually build AI apps is in one place.
 - Here’s what it covers:
 <img width="866" height="1092" alt="image" src="https://github.com/user-attachments/assets/09cc2ca5-7218-4b8b-b34b-05faf87ecfc2" />
+<img width="1010" height="1122" alt="image" src="https://github.com/user-attachments/assets/aaca15bc-2dac-4c59-a02e-3c8cd3c43fdd" />
 
 ---
 
