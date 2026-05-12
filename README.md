@@ -128,7 +128,13 @@
 <img width="962" height="1230" alt="image" src="https://github.com/user-attachments/assets/6db98fcd-9fcd-4a23-a0eb-034e9ceed461" />
 <img width="998" height="1206" alt="image" src="https://github.com/user-attachments/assets/df3691d1-7c95-4b88-860d-08a4bd91ab4b" />
 
+---
 
+# Software development is quietly undergoing its biggest shift in decades.
+<img width="792" height="924" alt="image" src="https://github.com/user-attachments/assets/449979d5-0ac6-4f66-85cd-189b16f7c52c" />
+<img width="896" height="1122" alt="image" src="https://github.com/user-attachments/assets/1b1975be-cd75-41ae-8519-5aa8b2785dc3" />
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
