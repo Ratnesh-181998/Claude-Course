@@ -136,6 +136,21 @@
 
 ---
 
+# A single CLAUDE.md is not a Claude Code project. It is a starter file.
+
+- The serious teams using Claude Code in production have a real folder structure with rules, commands, skills, agents, hooks, and MCP integrations. That structure is what turns an AI assistant into a teammate that respects your codebase conventions and your team's workflow.
+- Here is what a production Claude Code project actually looks like:
+- The Folder Structure
+  
+<img width="624" height="512" alt="image" src="https://github.com/user-attachments/assets/4827d96b-cfde-4f85-8eb9-df5cb2b7961f" />
+<img width="1056" height="1144" alt="image" src="https://github.com/user-attachments/assets/12916ebb-21ea-4fe4-acfa-b9fa7b18f006" />
+<img width="1094" height="1124" alt="image" src="https://github.com/user-attachments/assets/da391d6d-983a-492b-a4de-1bd9ce69db6d" />
+<img width="1042" height="1310" alt="image" src="https://github.com/user-attachments/assets/d3506c24-974c-4b51-a9e0-2a1d880241fd" />
+
+
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
