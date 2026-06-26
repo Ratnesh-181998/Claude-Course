@@ -150,7 +150,7 @@
 
 ---
 
-# Claude Code built the first working version in 4 hours.
+# [Claude Code built the first working version in 4 hours](https://github.com/Ratnesh-181998/Claude-Course/blob/main/Claude%20Code%20PlayBook.pdf)
 
 The lesson wasn't "AI replaced developers."
 
